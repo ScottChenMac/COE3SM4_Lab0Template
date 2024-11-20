@@ -1,5 +1,3 @@
-package coe3sm4_lab0;
-
 import java.util.Random;
 
 public class CardPool 
